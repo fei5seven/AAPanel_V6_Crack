@@ -9,6 +9,3 @@
 `wget https://github.com/madlifer/btpanelv6.1_crack/releases/download/1/crack.sh && bash crack.sh`
 
 
-# blog
-
-Https://madevo.net/
